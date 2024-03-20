@@ -1,0 +1,43 @@
+Magical Arena 
+
+Description:
+
+The Magical Arena game is about battles between two players, each defined by their attributes: health, strength, and attack. Players take turns attacking and defending until one player's health reaches zero. I implemented the game logic in Java.
+
+Setup:
+
+1. Requirements:
+	 Eclipse IDE
+	 Java Development Kit(JDK)
+2. Project Setup:
+	Open Eclipse IDE.
+	Create a new Java project with name MagicalArena.
+	Create Java classes (MagicalArena, Main, PlayerTest) into the project's source folder (src).
+
+Usage:
+
+1. To the run the game:
+ 	open the 'Main.java' file , right-click within the 'main method'.
+	select "Run As" > "Java Application".
+	The game will start running in the console, displaying the progress of the battle between the two players and atlast dislays the winner of the game.
+
+Testing:
+
+Unit Tests:
+
+	The project includes unit tests for the Player and MagicalArena classes.
+	To run the unit tests:
+		Open the PlayerTest.java and MagicalArenaTest.java files.
+		Right-click within the test methods.
+		Select "Run As" > "JUnit Test".
+		Review the test results in the JUnit view to ensure that all testcases are passed.
+
+
+
+
+	
+
+
+
+
+
